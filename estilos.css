@@ -1,0 +1,98 @@
+body{
+	background:#F2F2F2;
+	color:black;
+	font-family:arial,  "arial";
+	font-size:130%;
+}
+h1{
+	color:black;
+	background:#A9F5F2;
+	font-size:180%;
+	text-align:center;
+	text-shadow:1px 1px 1px rgba(0,0,0,.5);
+	width:65%;
+	height:60%;
+	padding:2%;
+	margin:2%;
+	border:solid;
+	border-color:black;
+	float:right;
+	position:relative;
+	left:-4%;
+}
+
+img{
+	position:relative;
+	left:2%;
+	margin-top:.5%;
+}
+
+
+div{
+	width:52%;
+	height:26%;
+	color:black;
+	text-align:center;
+	line-height:120%;
+	background:#CEF6F5;
+	box-shadow: 0px 5px 5px #A9F5F2;
+	margin:7%;
+	padding:2%;
+	position:relative;
+	left:15%;
+}
+
+span{
+	width:28%;
+	padding:1%;
+	display:inline-block;
+	background:#81F79F;
+	box-shadow:0px 4px 4px #01DF01;
+	text-align:center;
+	position:relative;
+	left:4%;
+}
+span:hover {
+	text-decoration:underline;
+	box-shadow:0px 2.5px 2.5px #01DF01;
+}
+span:active{
+	box-shadow:none;
+}
+
+h3{
+	color:#FE2E2E;
+	font-size:170%;
+	text-align:center;
+	position:relative;
+	left:2%;
+}
+h3:hover{
+	text-decoration:underline;
+}
+.Cajas{
+	text-align:center;
+	color:black;
+	font-size:100%;
+	text-decoration-line:none;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+footer{
+	font-size:80%;
+	font-weight:bold;
+	width:35%;
+	color:black;
+	text-align:center;
+	background:#CEF6F5;
+	box-shadow: 0px 2px 2px #A9F5F2;
+	margin:3%;
+	padding:2%;
+	position:relative;
+	left:30%;
+}
+
+
+
+/* Los comentarios se colocan así */
