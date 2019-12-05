@@ -2,7 +2,7 @@ body{
 	background:#F2F2F2;
 	color:black;
 	font-family:arial,  "arial";
-	font-size:130%;
+	font-size:100%;
 }
 h1{
 	color:black;
@@ -32,6 +32,7 @@ div{
 	width:52%;
 	height:26%;
 	color:black;
+	font-size:100%;
 	text-align:center;
 	line-height:120%;
 	background:#CEF6F5;
